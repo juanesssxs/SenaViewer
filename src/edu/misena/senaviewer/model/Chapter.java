@@ -1,6 +1,5 @@
 package edu.misena.senaviewer.model;
 
-
 import java.util.Date;
 
 public class Chapter {
